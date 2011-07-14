@@ -1,0 +1,1 @@
+AntTek Dictionary is a free GUI for accessing StarDict dictionary files and other online dictionary services (a dictionary shell) for Android-based devices.  It offers a quick definition looking up and a best integration with Android platform. ([http://anttek.com/?page_id=283 see more])
